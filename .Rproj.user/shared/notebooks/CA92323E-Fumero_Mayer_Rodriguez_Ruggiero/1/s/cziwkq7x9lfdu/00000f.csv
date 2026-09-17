@@ -1,0 +1,7 @@
+"0","ggplot(bootstrap, aes(x = p90)) +"
+"0","  geom_histogram(bins = 30) +"
+"0","  labs("
+"0","    title = ""Distribución bootstrap del percentil 90"","
+"0","    x = ""Percentil 90 de GrossApproval"","
+"0","    y = ""Frecuencia"""
+"0","  )"

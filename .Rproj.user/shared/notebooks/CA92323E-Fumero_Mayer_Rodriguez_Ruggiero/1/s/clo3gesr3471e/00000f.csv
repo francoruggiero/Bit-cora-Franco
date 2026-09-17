@@ -1,0 +1,7 @@
+"0","library(tidyverse)"
+"0",""
+"0","sba_2025 |>"
+"0","  summarise("
+"0","    mediana = median(GrossApproval, na.rm = TRUE),"
+"0","    percentil_90 = quantile(GrossApproval, 0.90, na.rm = TRUE)"
+"0","  )"

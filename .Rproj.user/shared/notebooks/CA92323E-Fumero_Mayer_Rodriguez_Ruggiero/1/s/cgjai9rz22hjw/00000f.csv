@@ -1,0 +1,7 @@
+"0","ggplot(sba, aes(x = factor(ApprovalFY), y = InitialInterestRate)) +"
+"0","  geom_boxplot() +"
+"0","  labs("
+"0","    title = ""Distribución de la tasa de interés inicial por año"","
+"0","    x = ""Año"","
+"0","    y = ""Tasa de interés inicial (%)"""
+"0","  )"

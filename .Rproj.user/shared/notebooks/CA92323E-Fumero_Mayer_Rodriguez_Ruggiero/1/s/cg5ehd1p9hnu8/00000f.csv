@@ -1,0 +1,6 @@
+"0","sba |>"
+"0","  mutate("
+"0","    prop_garantizada = SBAGuaranteedApproval / GrossApproval"
+"0","  ) |>"
+"0","  ggplot(aes(GrossApproval, prop_garantizada)) +"
+"0","  geom_point(alpha = .05)"

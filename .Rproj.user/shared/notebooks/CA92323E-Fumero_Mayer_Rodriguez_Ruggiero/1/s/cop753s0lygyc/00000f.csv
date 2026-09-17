@@ -1,0 +1,4 @@
+"0","sba_mensual <- sba %>% "
+"0","  mutate(Mes = floor_date(ApprovalDate, ""month"")) %>% "
+"0","  filter(year(Mes) >= 2010 & year(Mes) <= 2025) %>% "
+"0","  count(Mes)"

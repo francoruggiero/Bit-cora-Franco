@@ -1,0 +1,7 @@
+"0","ggplot(sba, aes(x = FixedorVariableInterestInd)) +"
+"0","  geom_bar() +"
+"0","  labs("
+"0","    title = ""Préstamos según tipo de tasa de interés"","
+"0","    x = ""Tipo de tasa"","
+"0","    y = ""Cantidad de préstamos"""
+"0","  )"

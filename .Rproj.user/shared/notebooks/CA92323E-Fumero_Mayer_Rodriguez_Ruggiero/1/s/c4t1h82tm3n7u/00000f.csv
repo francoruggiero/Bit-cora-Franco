@@ -1,0 +1,4 @@
+"0","montos_2025 <- sba_2025$GrossApproval"
+"0","montos_2025 <- montos_2025[!is.na(montos_2025)]"
+"0",""
+"0","n <- length(montos_2025)"

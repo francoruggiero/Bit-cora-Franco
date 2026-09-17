@@ -1,0 +1,7 @@
+"0","sba_2025 <- sba |>"
+"0","  dplyr::filter(lubridate::year(ApprovalDate) == 2025)"
+"0","nrow(sba_2025)"
+"1","[1]"
+"1"," 58037"
+"1","
+"

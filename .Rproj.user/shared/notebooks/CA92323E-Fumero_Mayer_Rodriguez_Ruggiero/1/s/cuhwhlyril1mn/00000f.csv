@@ -1,0 +1,8 @@
+"0","sba_express |>"
+"0","  summarise("
+"0","    media = mean(GrossApproval, na.rm = TRUE),"
+"0","    mediana = median(GrossApproval, na.rm = TRUE),"
+"0","    desvio = sd(GrossApproval, na.rm = TRUE),"
+"0","    minimo = min(GrossApproval, na.rm = TRUE),"
+"0","    maximo = max(GrossApproval, na.rm = TRUE)"
+"0","  )"

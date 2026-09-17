@@ -1,0 +1,7 @@
+"0","ggplot(sba, aes(x = GrossApproval)) +"
+"0","  geom_histogram(bins = 50) +"
+"0","  labs("
+"0","    title = ""Distribución del monto de los préstamos aprobados"","
+"0","    x = ""Monto aprobado (USD)"","
+"0","    y = ""Cantidad de préstamos"""
+"0","  )"

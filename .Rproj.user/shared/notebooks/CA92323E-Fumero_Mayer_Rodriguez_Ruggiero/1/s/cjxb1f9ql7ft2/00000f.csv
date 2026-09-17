@@ -1,0 +1,7 @@
+"0","ggplot(sba, aes(x = InitialInterestRate)) +"
+"0","  geom_histogram(bins = 50) +"
+"0","  labs("
+"0","    title = ""Distribución de la tasa de interés inicial"","
+"0","    x = ""Tasa de interés (%)"","
+"0","    y = ""Cantidad de préstamos"""
+"0","  )"

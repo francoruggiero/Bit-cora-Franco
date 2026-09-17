@@ -1,0 +1,2 @@
+"0","montos <- sba_express$GrossApproval"
+"0","montos <- montos[!is.na(montos) & montos > 0]"

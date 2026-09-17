@@ -1,0 +1,7 @@
+"0","ggplot(sba, aes(x = TermInMonths / 12)) +"
+"0","  geom_histogram(bins = 30, na.rm = TRUE) +"
+"0","  labs("
+"0","    title = ""Distribución de la duración de los préstamos (en años)"","
+"0","    x = ""Duración del préstamo (años)"","
+"0","    y = ""Cantidad de préstamos"""
+"0","  )"

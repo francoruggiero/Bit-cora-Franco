@@ -1,0 +1,5 @@
+"0","prestamos_anuales <- sba |>"
+"0","  mutate(anio = lubridate::year(ApprovalDate)) |>"
+"0","  count(anio)"
+"0",""
+"0","prestamos_anuales"

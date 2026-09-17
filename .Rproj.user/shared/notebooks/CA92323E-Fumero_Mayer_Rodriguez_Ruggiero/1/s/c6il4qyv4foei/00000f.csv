@@ -1,0 +1,7 @@
+"0","sba_tasas_recientes <- sba |>"
+"0","  filter("
+"0","    ApprovalFY >= 2023,"
+"0","    ApprovalFY <= 2025,"
+"0","    !is.na(InitialInterestRate),"
+"0","    !is.na(FixedorVariableInterestInd)"
+"0","  )"

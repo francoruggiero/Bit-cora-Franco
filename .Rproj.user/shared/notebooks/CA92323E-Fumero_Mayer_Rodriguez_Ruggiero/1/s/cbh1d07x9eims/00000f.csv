@@ -1,0 +1,7 @@
+"0","ggplot(bootstrap, aes(x = mediana)) +"
+"0","  geom_histogram(bins = 30) +"
+"0","  labs("
+"0","    title = ""Distribución bootstrap de la mediana"","
+"0","    x = ""Mediana de GrossApproval"","
+"0","    y = ""Frecuencia"""
+"0","  )"

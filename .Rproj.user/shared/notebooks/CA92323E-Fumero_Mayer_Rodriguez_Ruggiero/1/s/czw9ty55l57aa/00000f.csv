@@ -1,0 +1,8 @@
+"0","sba |>"
+"0","  summarise("
+"0","    minimo = min(JobsSupported, na.rm = TRUE),"
+"0","    media = mean(JobsSupported, na.rm = TRUE),"
+"0","    mediana = median(JobsSupported, na.rm = TRUE),"
+"0","    varianza = var(JobsSupported, na.rm = TRUE),"
+"0","    maximo = max(JobsSupported, na.rm = TRUE)"
+"0","  )"

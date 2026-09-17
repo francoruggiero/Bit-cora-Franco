@@ -1,0 +1,3 @@
+"0","sba |>"
+"0","  mutate(anio = lubridate::year(ApprovalDate)) |>"
+"0","  count(anio)"

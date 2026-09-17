@@ -1,0 +1,5 @@
+"0","sba|>"
+"0","  summarise("
+"0","    primera_fecha_aprobación = min(ApprovalDate, na.rm = TRUE),"
+"0","    ultima_fecha_aprobación = max(ApprovalDate, na.rm = TRUE)"
+"0","  )"

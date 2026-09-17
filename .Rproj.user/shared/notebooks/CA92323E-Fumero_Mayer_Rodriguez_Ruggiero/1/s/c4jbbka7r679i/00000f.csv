@@ -1,0 +1,8 @@
+"0"," sba|> "
+"0"," summarise("
+"0","   monto_p25 = quantile(GrossApproval, 0.25, na.rm = TRUE),"
+"0","   monto_medio = mean(GrossApproval, na.rm = TRUE),"
+"0","   monto_p75 = quantile(GrossApproval, 0.75, na.rm = TRUE),"
+"0","   monto_mediano = median(GrossApproval, na.rm = TRUE),"
+"0","   monto_desvio = sd(GrossApproval, na.rm = TRUE),"
+"0"," )"

@@ -1,0 +1,8 @@
+"0","sba_tasas_recientes |>"
+"0","  group_by(FixedorVariableInterestInd) |>"
+"0","  summarise("
+"0","    cantidad = n(),"
+"0","    media = mean(InitialInterestRate),"
+"0","    mediana = median(InitialInterestRate),"
+"0","    desvio = sd(InitialInterestRate)"
+"0","  )"

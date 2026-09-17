@@ -1,0 +1,8 @@
+"0","sba |>"
+"0","  summarise("
+"0","    tasa_p25 = quantile(InitialInterestRate, 0.25, na.rm = TRUE),"
+"0","    tasa_media = mean(InitialInterestRate, na.rm = TRUE),"
+"0","    tasa_mediana = median(InitialInterestRate, na.rm = TRUE),"
+"0","    tasa_p75 = quantile(InitialInterestRate, 0.75, na.rm = TRUE),"
+"0","    tasa_desvio = sd(InitialInterestRate, na.rm = TRUE)"
+"0","  )"
